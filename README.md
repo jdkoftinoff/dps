@@ -22,7 +22,7 @@ Windows users must install XMLShell after cloning DPS.
   
   2. Download the package appropriate for your OS.
   
-  3. Expand the package into *DPS*`\opt\xmlsh_1_1_4`
+  3. Expand the package into *DPS*`\opt\xmlsh_1_1_5`
 
 # Using DPS Standalone
 

@@ -34,7 +34,7 @@ export LIBDIR=$DPSDIR/lib
 export SBINDIR=$DPSDIR/sbin
 
 # XMLSH settings
-export XMLSH=$OPTDIR/xmlsh_1_1_4
+export XMLSH=$OPTDIR/xmlsh_1_1_5
 export PATH=$XMLSH/unix:$PATH
 export XPATH=$PWD/usr/bin:$SBINDIR:$BINDIR
 export XLOGFILE=$PWD/var/log/xmlsh.log

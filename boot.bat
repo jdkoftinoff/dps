@@ -28,7 +28,7 @@ set LIBDIR=%XROOT%/opt/dps/lib
 set SBINDIR=%XROOT%/opt/dps/sbin
 
 REM XMLSH settings
-set XMLSH=%OPTDIR%/xmlsh_1_1_4
+set XMLSH=%OPTDIR%/xmlsh_1_1_5
 set PATH=%XMLSH%/win32;%PATH%
 set XPATH=%XROOT%/usr/bin;%SBINDIR%;%BINDIR%
 set XLOGFILE=%XROOT%/var/log/xmlsh.log
